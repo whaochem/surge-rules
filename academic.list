@@ -1,0 +1,49 @@
+# > Clarivate / Web of Science (SCI 核心数据库)
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,endnote.com
+
+# > Elsevier / ScienceDirect
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,mendeley.com
+
+# > Springer Nature
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,biomedcentral.com
+
+# > Science & Wiley & IEEE
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,sciencemag.org
+DOMAIN-SUFFIX,wiley.com
+DOMAIN-SUFFIX,wiley.onlinelibrary.com
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,ieee-pes.org
+
+# > 化学、物理及其他专业数据库
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,aip.org
+DOMAIN-SUFFIX,scitation.org
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,plos.org
+DOMAIN-SUFFIX,scifinder-n.cas.org
+
+# > PubMed / NCBI
+DOMAIN-SUFFIX,nih.gov
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+
+# > Google Scholar & Sci-Hub
+DOMAIN-KEYWORD,scholar.google
+DOMAIN-KEYWORD,sci-hub
+DOMAIN-SUFFIX,sci-hub.se
+
+DOMAIN-SUFFIX,sci-hub.st
+DOMAIN-SUFFIX,sci-hub.ru
