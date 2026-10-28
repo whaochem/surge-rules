@@ -1,0 +1,9 @@
+# Claude / Anthropic
+# Dedicated domains plus keyword rules migrated from GlobalMedia
+DOMAIN-SUFFIX,anthropic.com
+DOMAIN-SUFFIX,clau.de
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-KEYWORD,anthropic
+DOMAIN-KEYWORD,claude
